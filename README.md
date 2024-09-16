@@ -62,4 +62,4 @@
 
 ## Demo
 
-Check out the live demo of Bezier: [Bezier-ai]([http://example.com/demo](https://bezier-ai.vercel.app/))
+Check out the live demo of Bezier: [Bezier-ai](https://bezier-ai.vercel.app/)
