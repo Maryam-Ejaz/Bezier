@@ -1,4 +1,4 @@
-# Bezier - AI-Powered SVG Icon Generator
+# Bezier - AI Icon Generator
 
 ![Bezier Logo](/src/assets/logo.png)
 
